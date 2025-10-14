@@ -27,4 +27,7 @@ print('U I I A U I I I A')`
 <span style = "color:tomato; font-weight: bold;
 ">Important!</span>
 
-Blabla bla 
+I thought at first I was going to destroy my computer because it didn't work the way i wanted it to work, but at the end of the day, i don't have money to buy a new laptop so maybe i will try to keep it safe for now yeah ? 
+
+But look at my best Gartic phone drawing ever : 
+![Rondoudou teubé](./Images/3276.jpg)

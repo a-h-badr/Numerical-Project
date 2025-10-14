@@ -31,3 +31,9 @@ I thought at first I was going to destroy my computer because it didn't work the
 
 But look at my best Gartic phone drawing ever : 
 ![Rondoudou teubé](./Images/3276.jpg)
+
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
